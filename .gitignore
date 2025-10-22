@@ -1,0 +1,4 @@
+__pycache__/
+user.db
+.env
+config.py
